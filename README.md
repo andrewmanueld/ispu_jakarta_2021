@@ -1,2 +1,2 @@
 # EDA ISPU DKI Jakarta Januari-Juli 2021
-Exploratory Data Analysis Sederhana Indeks Standar Pencemaran Udara DKI Jakarta Januari-Juli 2021. Notebook ini akan mengulas fenomena ISPU di DKI Jakarta pada periode Januari-Juli 2021. Data dapat diunduh melalui situs [Jakarta Open Data](https://data.jakarta.go.id/dataset/indeks-standar-pencemaran-udara-ispu-tahun-2021)
+Simple Exploratory Data Analysis of Jakarta Standard Index of Air Pollutant (ISPU). Dataset spesifically taken from January - July 2021 that can download on link [Jakarta Open Data](https://data.jakarta.go.id/dataset/indeks-standar-pencemaran-udara-ispu-tahun-2021) (dataset already included in Dataset folder). This notebook will reviewing air pollutant phenomenom in Jakarta on COVID-19 period
